@@ -1,0 +1,6 @@
+C:\Users\student\Documents\Visual Studio 2017\Projects\inzOp1zad2\inzOp1zad2\bin\Debug\inzOp1zad2.exe.config
+C:\Users\student\Documents\Visual Studio 2017\Projects\inzOp1zad2\inzOp1zad2\bin\Debug\inzOp1zad2.exe
+C:\Users\student\Documents\Visual Studio 2017\Projects\inzOp1zad2\inzOp1zad2\bin\Debug\inzOp1zad2.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\inzOp1zad2\inzOp1zad2\obj\Debug\inzOp1zad2.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\inzOp1zad2\inzOp1zad2\obj\Debug\inzOp1zad2.exe
+C:\Users\student\Documents\Visual Studio 2017\Projects\inzOp1zad2\inzOp1zad2\obj\Debug\inzOp1zad2.pdb

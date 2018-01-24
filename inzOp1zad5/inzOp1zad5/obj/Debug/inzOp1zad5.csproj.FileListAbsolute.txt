@@ -1,0 +1,7 @@
+C:\Users\Damian\source\repos\inzOp1zad5\inzOp1zad5\bin\Debug\inzOp1zad5.exe.config
+C:\Users\Damian\source\repos\inzOp1zad5\inzOp1zad5\bin\Debug\inzOp1zad5.exe
+C:\Users\Damian\source\repos\inzOp1zad5\inzOp1zad5\bin\Debug\inzOp1zad5.pdb
+C:\Users\Damian\source\repos\inzOp1zad5\inzOp1zad5\obj\Debug\inzOp1zad5.csprojResolveAssemblyReference.cache
+C:\Users\Damian\source\repos\inzOp1zad5\inzOp1zad5\obj\Debug\inzOp1zad5.csproj.CoreCompileInputs.cache
+C:\Users\Damian\source\repos\inzOp1zad5\inzOp1zad5\obj\Debug\inzOp1zad5.exe
+C:\Users\Damian\source\repos\inzOp1zad5\inzOp1zad5\obj\Debug\inzOp1zad5.pdb

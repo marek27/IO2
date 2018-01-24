@@ -1,0 +1,14 @@
+C:\Users\student\Documents\Visual Studio 2017\Projects\inzOp1zad3\inzOp1zad3\bin\Debug\inzOp1zad3.exe.config
+C:\Users\student\Documents\Visual Studio 2017\Projects\inzOp1zad3\inzOp1zad3\bin\Debug\inzOp1zad3.exe
+C:\Users\student\Documents\Visual Studio 2017\Projects\inzOp1zad3\inzOp1zad3\bin\Debug\inzOp1zad3.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\inzOp1zad3\inzOp1zad3\obj\Debug\inzOp1zad3.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2017\Projects\inzOp1zad3\inzOp1zad3\obj\Debug\inzOp1zad3.exe
+C:\Users\student\Documents\Visual Studio 2017\Projects\inzOp1zad3\inzOp1zad3\obj\Debug\inzOp1zad3.pdb
+C:\Users\student\Documents\Visual Studio 2017\Projects\inzOp1zad3\inzOp1zad3\obj\Debug\inzOp1zad3.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\Studia\ROK 3\IO\IOLab\lab 1\inzOp1zad3\inzOp1zad3\bin\Debug\inzOp1zad3.exe.config
+C:\Users\Damian\Desktop\Studia\ROK 3\IO\IOLab\lab 1\inzOp1zad3\inzOp1zad3\bin\Debug\inzOp1zad3.exe
+C:\Users\Damian\Desktop\Studia\ROK 3\IO\IOLab\lab 1\inzOp1zad3\inzOp1zad3\bin\Debug\inzOp1zad3.pdb
+C:\Users\Damian\Desktop\Studia\ROK 3\IO\IOLab\lab 1\inzOp1zad3\inzOp1zad3\obj\Debug\inzOp1zad3.csprojResolveAssemblyReference.cache
+C:\Users\Damian\Desktop\Studia\ROK 3\IO\IOLab\lab 1\inzOp1zad3\inzOp1zad3\obj\Debug\inzOp1zad3.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\Studia\ROK 3\IO\IOLab\lab 1\inzOp1zad3\inzOp1zad3\obj\Debug\inzOp1zad3.exe
+C:\Users\Damian\Desktop\Studia\ROK 3\IO\IOLab\lab 1\inzOp1zad3\inzOp1zad3\obj\Debug\inzOp1zad3.pdb
